@@ -1,55 +1,52 @@
 # Hi 👋 I'm Rathna Prasad
 
 🎓 B.Tech Artificial Intelligence & Data Science Student  
-💻 Full-Stack Developer | UI/UX Designer | ML Enthusiast  
 📍 Puducherry, India  
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Artificial Intelligence and Data Science student with strong interest in building intelligent, user-centric digital solutions.  
-I enjoy working across **Machine Learning, Web Development, and UI/UX Design**, transforming ideas into scalable and impactful products.
+I am a passionate Artificial Intelligence and Data Science student with a strong interest in building intelligent, user-centric digital solutions.  
+I enjoy working across **Machine Learning and Web Development**, transforming ideas into scalable and impactful products.
 
-- 🔹 Hands-on experience in ML model building and data-driven applications  
-- 🔹 Skilled in front-end and back-end web development  
-- 🔹 Creative thinker with a design-first mindset  
-- 🔹 Constant learner who enjoys exploring new technologies  
-
----
 
 ## 🛠️ Tech Stack
 
-**Programming & Development**
-- Python, JavaScript, TypeScript
-- HTML, CSS, SQL
-- FastAPI
+### 💻 Programming & Query Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-**AI & Data Science**
-- Machine Learning
-- Data Analysis
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-**Databases**
-- MySQL, PL/SQL
+### 📊 Data & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+</p>
 
-**Design & Tools**
-- Figma
-- Git & GitHub
+### 🎨 Design & Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
----
 
 ## 📌 Projects
 
 ### 🚗 Vehicle Class Classification (Machine Learning)
-- Built an ML model to classify vehicles based on dataset features  
-- Applied data preprocessing, feature engineering, and model evaluation  
+- Built an ML model to classify vehicles using supervised learning techniques  
+- Performed data preprocessing, feature engineering, and model evaluation  
 
 ### 🎓 Student Database Management System
-- Developed a full-stack system using HTML, CSS, JavaScript, SQL, and FastAPI  
+- Developed a full-stack application using HTML, CSS, JavaScript, SQL, and FastAPI  
 - Implemented CRUD operations with secure backend integration  
 
 ### 🌐 Smart City Portal – Pondicherry
-- Designing a centralized portal providing blogs, maps, bookings, medical support, travel, and services  
+- Designing a centralized portal offering blogs, maps, bookings, medical support, and travel services  
 - API-driven architecture for scalable feature integration  
 
 ---
@@ -60,23 +57,10 @@ I enjoy working across **Machine Learning, Web Development, and UI/UX Design**, 
 - 🏁 National Level 24-Hour Hackathon – HackSpora 2k25  
 - 📜 NPTEL – Programming in Java  
 - 📜 TensorFlow Certification – Google Developers  
-- 📜 Infosys Springboard – Python for Data Science & ML  
+- 📜 Infosys Springboard – Python for Data Science & ML   
 
 ---
 
-## 📊 GitHub Stats
+⭐ Feel free to explore my repositories and connect with me!
 
-![GitHub Stats](https://github.com/prasadpark24)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compac)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/rathnaprasad-d-19a6a9329
-
-- 🌐 Portfolio: *Coming Soon*  
-
----
 
